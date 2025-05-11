@@ -1,2 +1,2 @@
 ## koperwas.eu.org ##
-Just a test of free web hosting of static page content via github pages with custom domain. 
+This is a test of free web hosting for static website content using GitHub Pages and a custom domain.
